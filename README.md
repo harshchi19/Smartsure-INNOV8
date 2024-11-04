@@ -1,5 +1,5 @@
 # Team INNOV8
-# PS: Revolutionizing Insurance 
+# PS: Democratizing Insurance and Investment Advisory for Indians
 ![](https://i.ibb.co/3s7JppM/Insurance-logo.png)
 
 Welcome to **SmartSure**, a groundbreaking project designed to revolutionize the insurance industry through advanced AI technologies. 
@@ -89,15 +89,6 @@ Once the application is running, you can explore the following features:
 - **AI-Driven Base Plan Recommendations:** Get personalized insurance plan recommendations based on your user profile.
 - **Customizable Insurance Plan Generator:** Tailor an insurance plan to your specific needs and receive dynamic pricing instantly.
 - **Dynamic Business Dashboard:** Real-time sales insights specially tailored on the parameters of your choice along with their respective visualizations.
-
-### Active Contributors 🚀
-<hr>
-<p align="start">
-<a  href="[https://github.com/MihirRajeshPanchal/Final-Year-Project-Drone/graphs/contributors](https://github.com/harshchi19/Smartsure-INNOV8/graphs/contributors)">
-  <img src="https://contrib.rocks/image?repo=harshchi19/Smartsure-INNOV8"/>
-</a>
-</p>
-</br>
 
 ## Contributing
 
